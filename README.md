@@ -1,6 +1,13 @@
 # Learning-data-analysis_LITA
 My data analysis journey
 
+[Introduction](#Introduction)
+[Objective](#Objective)
+[Data Sources](#Data Sources)
+[Tools Used](#Tools Used)
+[Data cleaning and manipulation processes](#Data cleaning and manipulation processes)
+[Data visualization](#Data visualization)
+
 ## Introduction:
 ---
 Hi, I am Olalere Opeyemi and i am currently learning data analysis. Over the past few months these are some of the things i have learnt
