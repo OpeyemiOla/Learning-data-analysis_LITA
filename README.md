@@ -44,3 +44,4 @@ The primary data sourec here is Data Sale.csv, which is an open source that can 
 
  ### Data Visualization
  ---
+![image](https://github.com/user-attachments/assets/0bbefe4c-40ad-4513-9c2d-6c6cd43e97fa)
