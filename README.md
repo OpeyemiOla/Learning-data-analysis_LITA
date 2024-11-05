@@ -42,6 +42,24 @@ The primary data sourec here is Data Sale.csv, which is an open source that can 
 
  *Github for portfolio building*
 
+ ### Data Cleaning and Manipulation processes
+ ---
+ *Data Cleaning:*
+
+1. Handling missing values:
+2. Data transformation:
+    - Converting data types (e.g., text to date)
+    - Aggregating data (e.g., grouping)
+3. Data quality checks:
+    - Checking for duplicates
+    - Identifying outliers
+    - Validating data formats
+4. Data standardization:
+    - Standardizing date formats
+    - Standardizing currency formats
+
  ### Data Visualization
  ---
 ![image](https://github.com/user-attachments/assets/0bbefe4c-40ad-4513-9c2d-6c6cd43e97fa)
+![image](https://github.com/user-attachments/assets/b4d180a7-2314-4d59-9df5-e7b7cb38ffaf)
+
