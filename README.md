@@ -20,7 +20,7 @@ The primary data sourec here is Data Sale.csv, which is an open source that can 
 - What-if analysis and forecasting
 - Key tools: formulas, functions (e.g., VLOOKUP)
 
-*SQL for Data Analysis*
+*SQL for querying data*
 
 - Data querying and retrieval
 - Data modeling and database design
@@ -28,7 +28,7 @@ The primary data sourec here is Data Sale.csv, which is an open source that can 
 - Data aggregation and grouping
 - Key tools: SELECT statements, JOINs, subqueries, aggregations (e.g., SUM, AVG)
 
-- *Power BI for Data Analysis*
+- *Power BI for Data Analysis & visualization*
 
 - Data visualization and dashboarding
 - Interactive reporting and storytelling
@@ -36,4 +36,4 @@ The primary data sourec here is Data Sale.csv, which is an open source that can 
 - Real-time data monitoring
 - Key tools: Power Query, Power Pivot, DAX, visualization tools (e.g., tables, charts, maps)
 
-- Github for portfolio building
+- *Github for portfolio building*
