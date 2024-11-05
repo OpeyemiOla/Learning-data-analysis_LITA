@@ -12,7 +12,7 @@ Demonstrate ability to drive business decisions through data-driven solutions.
 The primary data sourec here is Data Sale.csv, which is an open source that can be downloaded freely from Kaggle
 
 ### Tools Used
- *Excel for Data Analysis*
+ *Excel for Data Analysis* [download here](https://www.microsoft.com)
 
 - Data manipulation and cleaning
 - Pivot tables and summarization
