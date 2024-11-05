@@ -37,3 +37,5 @@ The primary data sourec here is Data Sale.csv, which is an open source that can 
 - Key tools: Power Query, Power Pivot, DAX, visualization tools (e.g., tables, charts, maps)
 
  *Github for portfolio building*
+
+ ### Data Visualization
