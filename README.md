@@ -2,16 +2,20 @@
 My data analysis journey
 
 ## Introduction:
+---
 Hi, I am Olalere Opeyemi and i am currently learning data analysis. Over the past few months these are some of the things i have learnt
 This data analysis portfolio showcases expertise in extracting insights from complex data sets using Excel, SQL, and Power BI.
   
 ### Objective:
+---
 Demonstrate ability to drive business decisions through data-driven solutions.
 
 ### Data Sources
+---
 The primary data sourec here is Data Sale.csv, which is an open source that can be downloaded freely from Kaggle
 
 ### Tools Used
+---
  *Excel for Data Analysis* [download here](https://www.microsoft.com)
 
 - Data manipulation and cleaning
@@ -39,3 +43,4 @@ The primary data sourec here is Data Sale.csv, which is an open source that can 
  *Github for portfolio building*
 
  ### Data Visualization
+ ---
